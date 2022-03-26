@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern-stack, DevOps, cloud**
 
-- 📫 How to reach me **diyarhussein21@gmail.com or on linkedin (diyar hussein))**
+- 📫 How to reach me **diyarhussein21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
