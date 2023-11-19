@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Diyar Hussein</h1>
-<h3 align="center">
-  🚀 A passionate frontend developer at CHECK24, diving into full-stack
-  technologies. Living in Leverkusen, Germany, I'm enthusiastic about learning
-  new technologies, with a dream to excel as a full-stack developer. My journey
-  began with a certification in Computer Science/Multimedia from bib
-  International College, followed by hands-on experience and learning at
-  Integrify's full-stack program. Excited for future challenges! 🌐
-</h3>
+<h1 align="center">🌟 Hello, I'm Diyar Hussein! 🌐</h1>
+<h2 align="center">
+ 🔍 Frontend Developer at CHECK24 - Leveraging my skills in #nextjs, #reactjs, #pactflow, #mernstack, and #typescript to create dynamic, user-centric web solutions.</h2>
+ <h3>👨‍💻 About Me: I'm a passionate coder from Leverkusen, North Rhine-Westphalia, Germany, who loves tackling challenging projects and learning new technologies.</h3>
+ <h3>🚀 My Journey: Starting as a Front-End Developer at CJD, I've honed my skills in HTML5, CSS3, JavaScript, and reactjs As I ventured into full-stack development, I embraced technologies like MongoDB, Express.js, React.js, Node.js (MERN stack), and TypeScript. My adventure-based learning at Integrify has further shaped my programming expertise.</h3>
+ <h3>🌐 Languages: I'm proficient in Arabic (native/bilingual), German and English (professional working proficiency), enabling me to collaborate effectively in diverse environments.</h3>
+ <h3>🎓 Education: Proud alum of bib International College, where I earned my certification in Computer Science/Multimedia Computer Science.</h3>
+ <h3>💡 Skills & Expertise: My toolkit includes HTML5, CSS3, Nextjs, TypeScript, JavaScript, Pactflow, Sass, Storybook, Ladle, C#, Unity, and a keen interest in DevOps and cloud technologies.</h3>
+ <h3>🔗 Networking: Always open to connecting with like-minded professionals and enthusiasts in the tech world. Let's share insights and grow together!</h3>
+ <h3>📈 My Goals: Constantly seeking to refine my skills and explore new horizons in programming. Your feedback and collaboration are always welcome!</h3>
+ <h3>🌟 Join me on this journey as I continue to explore the exciting world of web development and beyond. Let's code, connect, and create! 🚀</h3>
 
 📫 How to reach me **diyarhussein21@gmail.com**.
 
